@@ -24,14 +24,14 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
+twitter: false
+facebook: false
+instagram: false
 github: https://github.com/
 linkedin: https://linkedin.com/
 medium: false
 google-scholar: false
-email: false
+email: mailto:baguswijaksono292@gmail.com
 
 # footer information
 footer-msg: false
