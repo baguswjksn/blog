@@ -10,8 +10,8 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Bagus Muhammad Wijaksono
+author-bio: false  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -34,7 +34,7 @@ google-scholar: false
 email: false
 
 # footer information
-footer-msg: "Powered by Tailpages"
+footer-msg: false
 footer-msg-link: https://github.com/baguswjksn
 
 # jekyll plugins - no need to change
