@@ -3,7 +3,7 @@ baseurl: "/" # the name of your github repo
 url: "https://baguswjksn.github.io/blog/" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
+title: "Bagus Muhammad Wijaksono"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
@@ -34,7 +34,7 @@ google-scholar: false
 email: mailto:baguswijaksono292@gmail.com
 
 # footer information
-footer-msg: false
+footer-msg: Bagus Muhammad Wijaksono
 footer-msg-link: https://github.com/baguswjksn
 
 # jekyll plugins - no need to change
