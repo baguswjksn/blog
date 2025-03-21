@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Bagus Muhammad Wijaksono
-author-bio: i like builds, breaks, and secures things—passionate about software engineering, pentesting, history, and philosophy  # change to false to hide
+author-bio: i like builds, breaks, and secures things  # change to false to hide
 author-image: photo_2025-03-20_08-48-53.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
