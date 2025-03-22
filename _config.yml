@@ -7,7 +7,7 @@ title: "Bagus Muhammad Wijaksono"
 description: Bagus Muhammad Wijaksono
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: yellow # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Bagus Muhammad Wijaksono
@@ -27,10 +27,6 @@ nav-menu:
 github: https://github.com/
 linkedin: https://linkedin.com/
 email: mailto:baguswijaksono292@gmail.com
-
-# footer information
-footer-msg: Bagus Muhammad Wijaksono
-footer-msg-link: https://github.com/baguswjksn
 
 # jekyll plugins - no need to change
 plugins:
