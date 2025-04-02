@@ -1,5 +1,5 @@
 ---
-layout: post-toc
+layout: post
 title: What Makes a Password Strong
 tags: tutorial 
 permalink: what-makes-a-strong-password
