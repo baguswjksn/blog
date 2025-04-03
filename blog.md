@@ -3,7 +3,6 @@ layout: page
 title: Blog
 permalink: blog
 ---
-
 <div class="max-w-2xl mx-auto space-y-6">
   {% for post in site.posts %}
     <div 
@@ -18,3 +17,4 @@ permalink: blog
     </div>
   {% endfor %}
 </div>
+
