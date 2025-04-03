@@ -1,0 +1,48 @@
+<footer class="relative px-4 pt-4 pb-4">
+  <!-- divider -->
+  <div class="relative my-8">
+    <div class="absolute inset-0 flex items-center" aria-hidden="true">
+      <div class="w-full border-t border-gray-200"></div>
+    </div>
+    <div class="relative flex justify-center ">
+      <span class="bg-white px-2 text-gray-200">
+        <i class="text-xs far fa-square"></i>
+      </span>
+    </div>
+  </div>
+  <!-- footer msg -->
+  <div class="flex flex-wrap items-center justify-center">
+    <div class="text-sm text-gray-300">
+      <span id="get-current-year"></span>
+    </div>
+  </div>
+</footer>
+<script>
+  /* Funtion for getting the current year in the footer */
+  (function () {
+    if (document.getElementById("get-current-year")) {
+      document.getElementById(
+        "get-current-year"
+      ).innerHTML = new Date().getFullYear();
+    }
+  })();
+
+  /* Function for opning navbar on mobile */
+  function toggleNavbar(collapseID) {
+      document.getElementById(collapseID).classList.toggle("hidden");
+      document.getElementById(collapseID).classList.toggle("block");
+    }
+    /* Function for dropdowns */
+    function openDropdown(event, dropdownID) {
+      let element = event.target;
+      while (element.nodeName !== "A") {
+        element = element.parentNode;
+      }
+      document.getElementById(dropdownID).classList.toggle("hidden");
+      document.getElementById(dropdownID).classList.toggle("block");
+    }
+
+</script>
+</div>
+</body>
+</html>
