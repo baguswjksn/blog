@@ -3,6 +3,7 @@ layout: post
 title: Bitcoin Mining Just Fancy Brute-Forcing?
 tags: tutorial 
 permalink: bitcoin-mining
+desc: Bitcoin Mining Just Fancy Brute-Forcing, nothing special as you think
 ---
 ![image](https://github.com/user-attachments/assets/be5297ce-6c9e-41b8-9582-27588c2122a6)
 
