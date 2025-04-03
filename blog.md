@@ -3,15 +3,14 @@ layout: page
 title: Blog
 permalink: blog
 ---
-
-<div>
+<div class="max-w-2xl mx-auto space-y-6">
   {% for post in site.posts %}
-    <div class="py-2">
-      <h3 class="text-gray-800 hover:text-gray-600">
-        <a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a>
+    <div class="border-b pb-4 hover:shadow-md transition-shadow duration-300">
+      <h3 class="text-xl font-semibold text-gray-900 hover:text-gray-700 transition-colors duration-200">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h3>
-      <p>{{post.desc}}</p>
-      <div class="text-sm text-gray-500">{{post.date | date: "%B %-d, %Y"}}</div>
+      <p class="text-gray-600 text-sm mt-1">{{ post.desc }}</p>
+      <div class="text-xs text-gray-400 mt-2">{{ post.date | date: "%B %-d, %Y" }}</div>
     </div>
   {% endfor %}
 </div>
