@@ -13,8 +13,6 @@ Email scraping, is useful for legitimate purposes like marketing campaigns and d
 
 I’ll show you how easily you can gather millions of emails just using google dork/ google hacking. Now what’s google dork?? google it! don’t be lazy but if your’e already aware of it Noiceeeee. here’s a sample of the google dork I used.
 
-==intext:====@===="yahoo|gmail|hotmail"====.com filetype:txt site:.us==
-
 ![](https://miro.medium.com/v2/resize:fit:875/1*LjASR6QUNq_ThssrTDp9Hg.png)
 
 Results will give you sensitive information already
@@ -32,7 +30,6 @@ now we’re going to test this via curl to
 ```shell
 curl "https://www.googleapis.com/customsearch/v1?key=[API KEY]&cx=[CX]u&q=[SEARCH STRING]"
 ```
-
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*rPWKex815_Fb0UM_GaYXgw.png)
 
@@ -61,7 +58,6 @@ for link in `cat links.txt`;do
   curl -s $link |grep -E -o '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}' | tee -a emails.txt  
 done
 ```
-
 
 ![](https://miro.medium.com/v2/resize:fit:875/1*GUmzn-VKeZCj1x-AtzKfCw.png)
 
