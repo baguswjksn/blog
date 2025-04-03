@@ -4,6 +4,8 @@ title: Bitcoin Mining Just Fancy Brute-Forcing?
 tags: tutorial 
 permalink: bitcoin-mining
 ---
+![image](https://github.com/user-attachments/assets/be5297ce-6c9e-41b8-9582-27588c2122a6)
+
 
 Bitcoin mining is often portrayed as a sophisticated and mysterious process, but at its core, it's just brute-forcing at an immense scale. Miners worldwide are engaged in an arms race, running trillions of computations per second to solve a cryptographic puzzle. But what does this really mean? Let’s break it down.
 
