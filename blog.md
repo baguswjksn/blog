@@ -7,7 +7,9 @@ permalink: blog
   {% for post in site.posts %}
     <div class="border-b pb-4 hover:shadow-md transition-shadow duration-300">
       <h3 class="text-xl font-semibold text-gray-900 hover:text-gray-700 transition-colors duration-200">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="no-underline text-gray-900 hover:text-gray-700 visited:text-gray-900">
+          {{ post.title }}
+        </a>
       </h3>
       <p class="text-gray-600 text-sm mt-1">{{ post.desc }}</p>
       <div class="text-xs text-gray-400 mt-2">{{ post.date | date: "%B %-d, %Y" }}</div>
