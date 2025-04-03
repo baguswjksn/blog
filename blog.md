@@ -10,6 +10,7 @@ permalink: blog
       <h3 class="text-gray-800 hover:text-gray-600">
         <a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a>
       </h3>
+      <p>{{post.desc}}</p>
       <div class="text-sm text-gray-500">{{post.date | date: "%B %-d, %Y"}}</div>
     </div>
   {% endfor %}
