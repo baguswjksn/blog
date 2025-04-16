@@ -5,17 +5,16 @@ permalink: blog
 ---
 <div class="max-w-2xl mx-auto space-y-6">
   {% for post in site.posts %}
-    <div 
-      class="border-b pb-4 cursor-pointer"
-      onclick="window.location.href='{{ site.baseurl }}{{ post.url }}'"
+    <a 
+      href="{{ site.baseurl }}{{ post.url }}"
+      class="block border-b pb-4 hover:bg-gray-50 transition rounded"
     >
-      <h3 class="text-xl font-bold text-gray-800 cursor-pointer">
+      <h3 class="text-xl font-bold text-gray-800">
         {{ post.title }}
       </h3>
-      <p class="text-gray-600 text-sm mt-1">{{ post.desc }}</p>
-      <div class="text-xs text-gray-400 mt-2">{{ post.date | date: "%B %-d, %Y" }}</div>
-</div>
-        
+      <div class="text-xs text-gray-400 mt-2">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </div>
+    </a>
   {% endfor %}
 </div>
-
