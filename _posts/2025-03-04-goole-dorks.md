@@ -5,11 +5,7 @@ tags: tutorial
 permalink: google-dorks
 ---
 
-How I was able to scrape large data of emails from the top mail domains(gmail,yahoo,hotmail etc..), .gov, .edu on of all countries and with private email as well with just using 2 simple tools **google dorks** and **bash** Let’s start with the how can this be useful… Beware of my words I’ll be using borrow,accidentally, not intended trust me its true 😉
-
 Email scraping, is useful for legitimate purposes like marketing campaigns and data analysis, can also be exploited for malicious activities such as spam,phishing attacks, malware distribution.
-
-![](https://miro.medium.com/v2/resize:fit:680/0*QMRdMhYWFBB1UqvS.jpg)
 
 I’ll show you how easily you can gather millions of emails just using google dork/ google hacking. Now what’s google dork?? google it! don’t be lazy but if your’e already aware of it Noiceeeee. here’s a sample of the google dork I used.
 
