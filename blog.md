@@ -9,7 +9,7 @@ permalink: blog
     <div class="py-1">
 <h3>
   <a href="{{site.baseurl}}{{ post.url }}" style="color: black; text-decoration: none;">
-    {{ post.title }}
+    <strong>{{ post.title }}</strong>
   </a>
 </h3>
       <div class="text-sm text-gray-400">{{ post.desc }}</div>
