@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Google Dorks, How I Extracted Millions of Data
+title: Google Dorks 
 tags: tutorial 
 permalink: google-dorks
+desc: An Easy Way to Extract Millions of Data Records
 ---
 
 Email scraping, is useful for legitimate purposes like marketing campaigns and data analysis, can also be exploited for malicious activities such as spam,phishing attacks, malware distribution.
