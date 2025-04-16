@@ -12,8 +12,7 @@ permalink: blog
     {{ post.title }}
   </a>
 </h3>
-      <p>{{ post.desc }}</p>
-      <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
+      <div class="text-sm text-gray-400">{{ post.desc }}</div>
     </div>
   {% endfor %}
 </div>
