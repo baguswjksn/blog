@@ -3,6 +3,7 @@ layout: post
 title: What Makes a Password Strong
 tags: tutorial 
 permalink: what-makes-a-strong-password
+desc: why an understanding of human habits can defeat the most powerful algorithms
 ---
 
 Before we start, try to forget everything you know about passwords. Rules like “Passwords must include a capital letter and a number” or those little “strength meters” that give you the reassuring green checkmark that your password is impenetrable are dangerously misleading and incomplete. Some of the reasons are mathematical, but a lot of it has to do with human behavior as well. Let’s take a look at the math behind the curtain, and why an understanding of human habits can defeat the most powerful algorithms.
