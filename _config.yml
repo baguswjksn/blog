@@ -1,4 +1,3 @@
-# change the followings to match your Github username and repo name
 baseurl: "/" # the name of your github repo
 url: "https://baguswjksn.github.io/blog/" # the url of your github pages
 
@@ -12,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Bagus Muhammad Wijaksono
 author-bio: builds, breaks, and secures  # change to false to hide
-author-image: photo_2025-03-20_08-48-53.jpg  # file must be in the /assets/img/ folder
+author-image: photo_2025-03-31_21-24-04.jpg
 
 # navigation menu
 show-nav-menu: true
