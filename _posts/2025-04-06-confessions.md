@@ -1,44 +1,27 @@
 ---
-layout: post
-title: Bitcoin Mining Just Fancy Brute-Forcing?
-tags: tutorial 
-permalink: bitcoin-mining
-desc: Bitcoin Mining Just Fancy Brute-Forcing, nothing special as you think
+layout: post  
+title: Confessions — A Gripping Tale of Guilt and the Human Condition
+tags: literature Japanese Novels
+permalink: confessions
+desc: A review of Minato Kanae's *Confessions*, a psychological thriller that explores the dark depths of revenge, guilt, and the human condition.  
 ---
-![image](https://github.com/user-attachments/assets/be5297ce-6c9e-41b8-9582-27588c2122a6)
 
+**Minato Kanae’s _Confessions_** is a chilling exploration of the human psyche, revenge, and the weight of guilt. The novel, a psychological thriller, follows the aftermath of a tragic event—a high school teacher’s daughter is murdered, and her teacher takes it upon herself to uncover the truth, not through traditional justice, but by orchestrating a series of confessions that unravel the lives of those responsible. What begins as a narrative about loss and vengeance transforms into a tense, multi-layered puzzle of morality, power, and emotional turmoil.
 
-Bitcoin mining is often portrayed as a sophisticated and mysterious process, but at its core, it's just brute-forcing at an immense scale. Miners worldwide are engaged in an arms race, running trillions of computations per second to solve a cryptographic puzzle. But what does this really mean? Let’s break it down.
+---
 
-## What is Bitcoin Mining?
+### **Revenge and Moral Ambiguity**
 
-Bitcoin operates on a decentralized network, where transactions are grouped into blocks. To add a new block to the blockchain, miners must find a special number called a **nonce** that, when hashed with the block’s data using SHA-256, produces a hash below a specific target. This process is known as **proof of work (PoW)**.
+At the core of _Confessions_ is the complex moral terrain of revenge. The novel is narrated from multiple perspectives, each character’s confession peeling back another layer of guilt, culpability, and motive. Kanae cleverly manipulates the reader’s emotions, forcing us to question our sympathies. Is the teacher justified in her actions, or has she crossed a line into something darker and more destructive? The novel challenges us to consider how far one should go in the name of justice and whether vengeance can ever truly bring closure.
 
-## The Brute-Force Nature of Mining
+---
 
-There’s no smart way to predict which nonce will produce a valid hash—miners must try different nonces until they find one that works. This is **brute-force search** in action: trying random inputs until the desired output is found.
+### **The Unraveling of Human Nature**
 
-- **SHA-256 is deterministic** – the same input always gives the same output, but even a tiny change completely alters the result.
-- **There’s no shortcut** – you can’t reverse-engineer the solution; you just keep guessing until you find a valid one.
-- **It’s a numbers game** – the more hashes you compute per second, the higher your chances of success.
+Kanae’s masterful storytelling leads us deep into the minds of the characters, exploring their desires, regrets, and weaknesses. The confessions of each individual involved in the tragedy are not just admissions of guilt—they are intricate windows into the human condition. _Confessions_ forces us to confront uncomfortable truths about the destructive power of guilt and how, when it is left unchecked, it can consume not just the guilty, but everyone in its path.
 
-## Mining Power: The Scale of Brute-Forcing
+---
 
-Modern Bitcoin mining involves **ASICs (Application-Specific Integrated Circuits)**, specialized machines capable of performing trillions of SHA-256 hashes per second. For perspective:
+### **A Gripping and Unsettling Thriller**
 
-- A top-tier ASIC miner like the Antminer S19 XP can do **140 terahashes per second (TH/s)**, or 140 trillion guesses per second.
-- The total Bitcoin network hashrate often exceeds **500 exahashes per second (EH/s)**, meaning 500 quintillion attempts are made every second worldwide.
-
-This brute-force approach ensures security but also consumes enormous energy, sparking debates over Bitcoin’s environmental impact.
-
-## Why Brute-Force Works for Bitcoin
-
-1. **Security Through Randomness** – The difficulty adjustment ensures that even with massive computing power, blocks are mined roughly every 10 minutes.
-2. **Decentralization** – Anyone with enough computational power can participate, though economies of scale favor large mining farms.
-3. **Unpredictability** – Because mining is brute-force, no one can predict who will find the next block, keeping the network fair.
-
-## Conclusion
-
-At its core, Bitcoin mining is a massive brute-force race where machines guess trillions of numbers per second, hoping to hit the jackpot. There’s no intelligence or strategy—just raw computational power competing to secure the network. While this process ensures security and decentralization, it also raises questions about efficiency and sustainability.
-
-So next time you hear about Bitcoin mining, just remember—it’s brute-forcing, just on an astronomical scale!
+What makes **_Confessions_** so haunting is the way it slowly pulls you in, only to leave you unsettled long after you’ve finished reading. It’s a story about justice, but not the kind we expect or desire. The novel doesn’t offer easy answers; instead, it leaves us with lingering questions about the nature of guilt, punishment, and the extent to which we are willing to go to right a wrong. If you’re looking for a psychological thriller that goes beyond the surface and forces you to grapple with moral ambiguity, **_Confessions_** is an unforgettable read.
