@@ -1,12 +1,10 @@
 ---
-layout: post
-title: Bitcoin Mining Just Fancy Brute-Forcing?
-tags: tutorial 
-permalink: bitcoin-mining
-desc: Bitcoin Mining Just Fancy Brute-Forcing, nothing special as you think
+layout: post  
+title: Reading Karamazov: A Personal Descent into Doubt and Truth  
+tags: literature, Russian novels  
+permalink: reading-karamazov  
+desc: A personal reflection on Fyodor Dostoevsky's The Brothers Karamazov, exploring themes of doubt, faith, suffering, and the search for moral truth.  
 ---
-![image](https://github.com/user-attachments/assets/be5297ce-6c9e-41b8-9582-27588c2122a6)
-
 
 Bitcoin mining is often portrayed as a sophisticated and mysterious process, but at its core, it's just brute-forcing at an immense scale. Miners worldwide are engaged in an arms race, running trillions of computations per second to solve a cryptographic puzzle. But what does this really mean? Let’s break it down.
 
