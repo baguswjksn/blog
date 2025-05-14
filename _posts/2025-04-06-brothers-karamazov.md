@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Reading Karamazov: A Personal Descent into Doubt and Truth  
+title: Reading Karamazov — A Personal Descent into Doubt and Truth
 tags: literature, Russian novels  
 permalink: reading-karamazov  
 desc: A personal reflection on Fyodor Dostoevsky's The Brothers Karamazov, exploring themes of doubt, faith, suffering, and the search for moral truth.  
