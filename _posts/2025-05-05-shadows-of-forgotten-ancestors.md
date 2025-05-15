@@ -7,6 +7,7 @@ desc: thought-provoking book examines the connections between science, culture, 
 ---
 
 *Shadows of Forgotten Ancestors* by **Carl Sagan** and **Ann Druyan** is a fascinating exploration of human evolution, tracing the deep, often mysterious roots of our species. The authors take readers on a journey back through time, examining our distant ancestors and their evolutionary journey. Through a seamless blend of anthropology, biology, and paleontology, Sagan and Druyan offer an accessible yet profound ==understanding of how humanity came to be==. Rather than focusing solely on hard facts, they bring to life the wonders and unknowns of our shared past.
+<p>This is an example of <span style="background-color: yellow;">highlighted text</span> in HTML.</p>
 
 ## Science Meets Philosophy
 
