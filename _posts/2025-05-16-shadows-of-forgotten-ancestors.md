@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Google Dorks 
+title: Google Dork
 tags: tutorial 
-permalink: google-dorks
+permalink: google-dork
 desc: An Easy Way to Extract Millions of Data Records
 ---
 
