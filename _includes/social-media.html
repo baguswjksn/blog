@@ -1,36 +1,30 @@
-<section>
+<section aria-label="Social media links">
   <div class="flex flex-wrap text-center">
     <div class="w-full pt-2">
       <div>
         {% if site.github %}
-        <a href="{{site.github}}" target="_blank">
-          <button
-            class="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-            type="button">
+        <span class="inline-block mr-2">
+          <a href="{{site.github}}" target="_blank" class="inline-flex items-center justify-center bg-white text-blueGray-800 font-normal h-10 w-10 rounded-full focus:outline-none" aria-label="GitHub">
             <i class="fab fa-github"></i>
-          </button>
-        </a>
+          </a>
+        </span>
         {% endif %}
 
         {% if site.linkedin %}
-        <a href="{{site.linkedin}}" target="_blank">
-          <button
-            class="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-            type="button">
+        <span class="inline-block mr-2">
+          <a href="{{site.linkedin}}" target="_blank" class="inline-flex items-center justify-center bg-white text-blueGray-800 font-normal h-10 w-10 rounded-full focus:outline-none" aria-label="LinkedIn">
             <i class="fab fa-linkedin"></i>
-          </button>
-        </a>
+          </a>
+        </span>
         {% endif %}
 
-{% if site.email %}
-<a href="mailto:{{site.email}}" target="_blank">
-  <button
-    class="bg-white text-blueGray-800 font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-    type="button">
-    <i class="fas fa-envelope"></i>
-  </button>
-</a>
-{% endif %}
+        {% if site.email %}
+        <span class="inline-block mr-2">
+          <a href="mailto:{{site.email}}" class="inline-flex items-center justify-center bg-white text-blueGray-800 font-normal h-10 w-10 rounded-full focus:outline-none" aria-label="Email">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </span>
+        {% endif %}
       </div>
     </div>
   </div>
