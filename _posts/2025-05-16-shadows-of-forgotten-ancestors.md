@@ -1,17 +1,75 @@
 ---
 layout: post
-title: Shadows of Forgotten Ancestors
-tags: non-fiction
-permalink: shadows-of-forgotten-ancestors
-desc: thought-provoking book examines the connections between science, culture, and the evolution of humanity, weaving together anthropology, biology, and history.
+title: Google Dorks 
+tags: tutorial 
+permalink: google-dorks
+desc: An Easy Way to Extract Millions of Data Records
 ---
 
-*Shadows of Forgotten Ancestors* by **Carl Sagan** and **Ann Druyan** is a fascinating exploration of human evolution, tracing the deep, often mysterious roots of our species. The authors take readers on a journey back through time, examining our distant ancestors and their evolutionary journey. Through a seamless blend of anthropology, biology, and paleontology, Sagan and Druyan offer an accessible yet profound understanding of how humanity came to be. Rather than focusing solely on hard facts, they bring to life the wonders and unknowns of our shared past.
+Email scraping, is useful for legitimate purposes like marketing campaigns and data analysis, can also be exploited for malicious activities such as spam,phishing attacks, malware distribution.
 
-## Science Meets Philosophy
+I’ll show you how easily you can gather millions of emails just using google dork/ google hacking. Now what’s google dork?? google it! don’t be lazy but if your’e already aware of it Noiceeeee. here’s a sample of the google dork I used.
 
-What truly sets this book apart is its ability to marry **science** with **philosophy**. Sagan and Druyan explore not just the biological aspects of human evolution but also reflect on deeper, existential questions—like the origins of **consciousness**, **culture**, and **morality**. The authors invite readers to reflect on humanity's place within the broader context of life on Earth, emphasizing how deeply interconnected all living beings are. Their writing is rich in insight, offering more than just scientific facts—it’s a journey into understanding what it means to be human.
+![](https://miro.medium.com/v2/resize:fit:875/1*LjASR6QUNq_ThssrTDp9Hg.png)
 
-## A Thought-Provoking Reflection
+Results will give you sensitive information already
 
-At its core, *Shadows of Forgotten Ancestors* is a meditation on the **fragility** and **beauty** of life. Sagan and Druyan's narrative strikes a perfect balance between scientific exploration and wonder, making complex concepts both accessible and thought-provoking. Whether you're a casual reader or someone with a deep interest in anthropology and philosophy, this book offers a unique and enriching perspective on the mysteries of our origins. It’s a must-read for anyone curious about who we are and how we got here.
+Now we can manually check and grab those names, emails, addresses and other sensitive information for the good thing we’re planning to use it
+
+But come on!? “Manually??” we’re going to automate this using bash for our sample; We’ll be using **Google’s custom search** this will require for you to create an account and generate your own API Keys. *But we’re not going to do that* were just going to **“borrow”** someones API key for the sake of showing this sample, I’ll be dorking this as well… and let’s see if we can find one
+
+![](https://miro.medium.com/v2/resize:fit:875/1*hR0Fxn5uE5K4PkMSpjVzsg.png)
+
+Ohhh look I accidentally found one!
+
+now we’re going to test this via curl to
+
+```shell
+curl "https://www.googleapis.com/customsearch/v1?key=[API KEY]&cx=[CX]u&q=[SEARCH STRING]"
+```
+
+![](https://miro.medium.com/v2/resize:fit:875/1*rPWKex815_Fb0UM_GaYXgw.png)
+
+Ohhhh it werked!
+
+Now we’re going to create our script to gather emails or any data from google.
+```shell
+#Search String  
+intext:@"yahoo|gmail|hotmail".com filetype:txt site:.us  
+#we are checking for any webpages for the pattern above on google
+
+#!/bin/bash   
+#we are getting the number of google pages results here  
+PAGECNT=$(curl -s "https://www.googleapis.com/customsearch/v1?q=[SEARCH STRING]&key=[API KEY]&cx=[cx]&start=1" |  jq -r '.queries.nextPage[0].startIndex')  
+#display total number  
+echo "$PAGECOUNT"   
+  
+#we're going to iterate in those pages to gather all URL results and save it  
+for i in (seq 1 $PAGECNT)  
+do  
+      curl -s 'https://www.googleapis.com/customsearch/v1?q=[SEARCH STRING]&num=10&key=[API KEY]&cx=[CX]&start='$i |  jq -r '.items[].link' | anew links.txt  
+done  
+  
+#we're going to iterate on those URLs and check for email patterns using regex  
+for link in `cat links.txt`;do  
+  curl -s $link |grep -E -o '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}' | tee -a emails.txt  
+done
+```
+
+![](https://miro.medium.com/v2/resize:fit:875/1*GUmzn-VKeZCj1x-AtzKfCw.png)
+
+Guess what!? we’re already able to fetch these emails
+
+![](https://miro.medium.com/v2/resize:fit:749/1*Cr5uBa8ZoV5Z4Pk3VWkpZA.png)
+
+we were able to gather 200k email with just using google dorks and bash
+
+Now as you can see we’re just limiting our test on text files we can expand this to other filetypes as well including csv,log files, back up files etc this will give you more data, and since the site focuses on “.us” only this will isolate our scrapping of emails with only to domains that contains “.us” we can also change this to expand our data gathering you can also set this for specific target domains to check for any leaks.
+
+As a Penetration Tester this is a great tool to have specially if your doing blackbox testing you can isolate to the targets domain and bruteforce those accounts for any weak passwords. You can improve the script that I showed you fine tune it, run it on thread, check for emails validity etc.. customize it to help you on your use case Just remember do it ethically ;).
+
+# **Take Aways**
+
+alway use “**Plus addressing**” when using your email to register,subscribe or anything related to you giving your email. E.g subscribing to Netflix use “youremail1337+netflix.com” no worries you can still receive your email in that way, advantage of this is once the email you received that was intended to “youremail1337+netflix.com” does not come from Netflix you are already aware that your email from Netflix was leaked or sold to third parties(I’m not saying Netflix sells your data! come on guys! or is it? LOL) anyways hope this help :) Chow!
+
+Thanks,
