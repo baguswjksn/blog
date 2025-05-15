@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Reading Karamazov — Descent into Doubt and Truth
+title: Reading Karamazov — into Doubt and Truth
 tags: literature Russian Novels
 permalink: brothers-karamazov
 desc: Exploring themes of doubt, faith, suffering, and the search for moral truth on Fyodor Dostoevsky's The Brothers Karamazov.  
@@ -22,6 +22,6 @@ This chapter has sparked centuries of debate, as it raises unsettling questions 
 
 ### **A Masterpiece of Reflection**
 
-What makes **_The Brothers Karamazov_** so compelling is its ability to engage with **universal themes**—doubt, faith, justice, and the search for meaning—without offering simple answers. Dostoevsky’s characters, though deeply immersed in their own personal turmoil, reflect the larger **existential struggles** we all face.
+<span style="background-color: yellow;">What makes **_The Brothers Karamazov_** so compelling is its ability to engage with **universal themes**—doubt, faith, justice, and the search for meaning—without offering simple answers</span>. Dostoevsky’s characters, though deeply immersed in their own personal turmoil, reflect the larger **existential struggles** we all face.
 
 This is not a novel to find comfort in, but rather one that forces you to confront uncomfortable truths about the human soul. If you've ever questioned the nature of existence or the role of faith in your life, **_The Brothers Karamazov_** will leave you with a sense of profound reflection that lingers long after the last page.
