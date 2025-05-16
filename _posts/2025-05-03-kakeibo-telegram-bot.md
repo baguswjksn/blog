@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Turned Kakeibo into a Telegram Bot and Made Budgeting Simpler
+title: How I Turned Kakeibo Budgeting Simpler
 tags: tutorial 
 permalink: kakeibo-telegram-bot
 desc: From reading a traditional Japanese budgeting book to building a digital companion that fits in my pocket.
