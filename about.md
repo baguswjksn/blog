@@ -5,6 +5,30 @@ permalink: about
 ---
 
 Hi! I’m Bagus Muhammad Wijaksono, known online as ‘baguswijaksono.’ You can find me under that name almost everywhere—there’s nothing hard to remember about my name. I like building, breaking, and securing things—passionate about software engineering, pentesting, history, and philosophy.
-![photo_2025-05-16_23-54-06](https://github.com/user-attachments/assets/7d05ff18-79e3-433f-87f0-e043ea5c9b7f)
+![Selamat Pagi](/assets/img/444636409-7d05ff18-79e3-433f-87f0-e043ea5c9b7f-1.webp)
 
 I’m a language-agnostic developer, adaptable to any language on the *NIX operating system. While I don’t often call myself a software engineer, I guess that’s what I am.
+Hi! I’m **Bagus Muhammad Wijaksono**, known online as **‘baguswijaksono’**—you can find me pretty much anywhere under that name. It’s simple and consistent, nothing complicated to remember.
+
+I enjoy **building, breaking, and securing** things. I'm passionate about **software engineering**, **penetration testing**, **history**, and **philosophy**. I'm a **language-agnostic developer**, comfortable working with any language, especially in *NIX environments. While I don’t always label myself as a "software engineer," I suppose that’s what I’ve grown into.
+
+As for social media—I’m not really active there. Not because I’m hiding anything, but simply because I don’t feel any strong reason or urgency to be. So if you stumble across one of my accounts and see it’s pretty much empty—that’s normal. I'm more focused on creating and learning than posting.
+
+## 🏅 Highlights
+
+- 🥷 Cybersecurity Finalist — KMIPN V 2023  
+- 💻 Matching Fund Polines x Telkom Indonesia (Backend Dev)  
+- 📚 Diploma III in Informatics Engineering – GPA 3.81
+
+## 🔭 Current Focus
+
+- Building tools for automation  
+- Exploring cybersecurity techniques and ethical hacking challenges
+
+## 🧰 Tech Stack
+
+- **Languages:** Go, PHP, JavaScript, Python, C  
+- **Databases:** SQLite, PostgreSQL, MySQL, MongoDB  
+- **Tools:** Git, curl, SQL, NGINX, Apache, Grafana  
+- **Operating Systems:** Arch Linux, Debian, Ubuntu, Kali Linux, Parrot OS  
+- **Protocols:** SSH, SFTP, RTSP, HTTP, HTTPS, MQTT
