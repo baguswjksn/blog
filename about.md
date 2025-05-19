@@ -4,11 +4,9 @@ title: About Me
 permalink: about
 ---
 
-Hi! I’m Bagus Muhammad Wijaksono, known online as ‘baguswijaksono.’ You can find me under that name almost everywhere—there’s nothing hard to remember about my name. I like building, breaking, and securing things—passionate about software engineering, pentesting, history, and philosophy.
-![Selamat Pagi](/assets/img/444636409-7d05ff18-79e3-433f-87f0-e043ea5c9b7f-1.webp)
-
-I’m a language-agnostic developer, adaptable to any language on the *NIX operating system. While I don’t often call myself a software engineer, I guess that’s what I am.
 Hi! I’m **Bagus Muhammad Wijaksono**, known online as **‘baguswijaksono’**—you can find me pretty much anywhere under that name. It’s simple and consistent, nothing complicated to remember.
+
+![Selamat Pagi](/assets/img/444636409-7d05ff18-79e3-433f-87f0-e043ea5c9b7f-1.webp)
 
 I enjoy **building, breaking, and securing** things. I'm passionate about **software engineering**, **penetration testing**, **history**, and **philosophy**. I'm a **language-agnostic developer**, comfortable working with any language, especially in *NIX environments. While I don’t always label myself as a "software engineer," I suppose that’s what I’ve grown into.
 
@@ -22,8 +20,9 @@ As for social media—I’m not really active there. Not because I’m hiding an
 
 ## 🔭 Current Focus
 
-- Building tools for automation  
-- Exploring cybersecurity techniques and ethical hacking challenges
+- Building practical tools to automate repetitive tasks
+- Exploring cybersecurity through ethical hacking challenges
+- Learning and experimenting with steganography for hiding information creatively
 
 ## 🧰 Tech Stack
 
