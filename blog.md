@@ -22,10 +22,14 @@ permalink: blog
     {% if featured_posts.size > 0 %}
       <div class="grid md:grid-cols-2 gap-6">
         {% for post in featured_posts %}
-          <div class="py-3">
-            <h3 class="text-lg font-medium"><a href="{{site.baseurl}}{{ post.url }}" class="hover:text-indigo-600 transition-colors">{{ post.title}}</a></h3>
-            <div class="text-sm text-gray-500">{{post.date | date: "%B %-d, %Y"}}</div>
-          </div>
+    <div class="py-3">
+<h3>
+  <a href="{{site.baseurl}}{{ post.url }}" style="color: black; text-decoration: none;">
+    <strong>{{ post.title }}</strong>
+  </a>
+</h3>
+      <div class="text-sm text-gray-400">{{ post.desc }}</div>
+    </div>
         {% endfor %}
       </div>
     {% else %}
@@ -36,7 +40,7 @@ permalink: blog
 
 <div id="all-tab" class="tab-content hidden">
   {% for post in site.posts %}
-    <div class="py-1">
+    <div class="py-3">
 <h3>
   <a href="{{site.baseurl}}{{ post.url }}" style="color: black; text-decoration: none;">
     <strong>{{ post.title }}</strong>
