@@ -4,6 +4,7 @@ title: Cut My 8-Hour Shift Down to Just 2 Hours
 tags: automation productivity
 permalink: how-i-automated-my-job
 desc: How automation transformed my daily routine and saved me time, making my work more impactful and enjoyable.
+featured: true
 ---
 
 Eight months ago, I joined a company as a DevOps Engineer for a major platform in the customer and billing space. Due to a non-disclosure agreement, I can't share which company I work for, but let's just say it’s a well-known ISP.
