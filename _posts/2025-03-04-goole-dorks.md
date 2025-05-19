@@ -10,15 +10,11 @@ Email scraping, is useful for legitimate purposes like marketing campaigns and d
 
 I’ll show you how easily you can gather millions of emails just using google dork/ google hacking. Now what’s google dork?? google it! don’t be lazy but if your’e already aware of it Noiceeeee. here’s a sample of the google dork I used.
 
-![](https://miro.medium.com/v2/resize:fit:875/1*LjASR6QUNq_ThssrTDp9Hg.png)
-
 Results will give you sensitive information already
 
 Now we can manually check and grab those names, emails, addresses and other sensitive information for the good thing we’re planning to use it
 
 But come on!? “Manually??” we’re going to automate this using bash for our sample; We’ll be using **Google’s custom search** this will require for you to create an account and generate your own API Keys. *But we’re not going to do that* were just going to **“borrow”** someones API key for the sake of showing this sample, I’ll be dorking this as well… and let’s see if we can find one
-
-![](https://miro.medium.com/v2/resize:fit:875/1*hR0Fxn5uE5K4PkMSpjVzsg.png)
 
 Ohhh look I accidentally found one!
 
@@ -27,8 +23,6 @@ now we’re going to test this via curl to
 ```shell
 curl "https://www.googleapis.com/customsearch/v1?key=[API KEY]&cx=[CX]u&q=[SEARCH STRING]"
 ```
-
-![](https://miro.medium.com/v2/resize:fit:875/1*rPWKex815_Fb0UM_GaYXgw.png)
 
 Ohhhh it werked!
 
@@ -56,11 +50,7 @@ for link in `cat links.txt`;do
 done
 ```
 
-![](https://miro.medium.com/v2/resize:fit:875/1*GUmzn-VKeZCj1x-AtzKfCw.png)
-
 Guess what!? we’re already able to fetch these emails
-
-![](https://miro.medium.com/v2/resize:fit:749/1*Cr5uBa8ZoV5Z4Pk3VWkpZA.png)
 
 we were able to gather 200k email with just using google dorks and bash
 
