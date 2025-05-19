@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How I Cut My 8-Hour Shift Down to Just 2 Hours
-tags: automation, productivity, DevOps, careerjourney
+title: Cut My 8-Hour Shift Down to Just 2 Hours
+tags: automation productivity
 permalink: how-i-automated-my-job
 desc: How automation transformed my daily routine and saved me time, making my work more impactful and enjoyable.
 ---
