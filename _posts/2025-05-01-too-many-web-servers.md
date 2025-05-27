@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Solving the Too-Many-Web-Servers Problem with a Simple HTML Portal
+title: Solving the Too-Many-Web-Servers Problem
 tags: internal-tools productivity html css
 permalink: too-many-web-servers
 desc: How I built a lightweight internal portal to manage dozens of production and pre-production web servers.
+featured: true
 ---
 
 When I first joined my company, one of the biggest headaches I faced wasn't the work itself—it was just trying to figure out _where everything was_. We had a **ton of web servers**. Some were for **production**, others were for **pre-production**, and each had its own quirks. On top of that, different systems required different levels of access—some were admin-only, others for testers or developers. To make it more complicated, the URLs were scattered across internal docs, chat messages, and the occasional browser bookmark. It was chaos.
