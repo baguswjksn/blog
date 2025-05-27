@@ -12,6 +12,8 @@ I enjoy **building, breaking, and securing** things. I'm passionate about **soft
 
 As for social media—I’m not really active there. Not because I’m hiding anything, but simply because I don’t feel any strong reason or urgency to be. So if you stumble across one of my accounts and see it’s pretty much empty—that’s normal. I'm more focused on creating and learning than posting.
 
+Especially from around 2022 onward, with AI advancing rapidly, I’ve been more cautious about how much personal content I put online. We’re clearly moving into an age where data—photos, videos, even casual posts—can all be used to train or feed AI systems. So I try to limit my digital footprint, especially when it comes to my face or personal exposure.
+
 ## 🏅 Highlights
 
 - 🥷 Cybersecurity Finalist — KMIPN V 2023  
