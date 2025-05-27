@@ -4,6 +4,7 @@ title: How I Turned Kakeibo Budgeting Simpler
 tags: tutorial 
 permalink: kakeibo-telegram-bot
 desc: From reading a traditional Japanese budgeting book to building a digital companion that fits in my pocket.
+featured: true
 ---
 
 Last week, I read a book on personal finance called _Kakeibo_ — the traditional Japanese method of mindful budgeting. It’s a simple, elegant system designed to make you think before spending, reflect regularly, and build a stronger relationship with your money. The approach emphasizes intention and awareness over complex tools, and it resonated with me immediately.
