@@ -2,8 +2,8 @@ baseurl: "/" # the name of your github repo
 url: "https://www.baguswjksn.my.id/"
 
 # site information used in page title, meta data etc.
-title: "Bagus Muhammad Wijaksono"
-description: Software developer by day, gamer also by day — building, breaking, and securing things around the clock. At night, I sleep.
+title: "baguswjksn.my.id"
+description: Bagus Muhammad Wijaksono's Personal Website
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
