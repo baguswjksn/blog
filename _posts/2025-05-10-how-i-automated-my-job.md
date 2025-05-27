@@ -6,6 +6,7 @@ permalink: how-i-automated-my-job
 desc: How automation transformed my daily routine and saved me time, making my work more impactful and enjoyable.
 featured: true
 ---
+![Selamat Pagi](/assets/img/481c05c7690691d91d914993db586754e01036d7ed386a0a021a30c7038f455f.webp)
 
 Eight months ago, I joined a company as a DevOps Engineer for a major platform in the customer and billing space. Due to a non-disclosure agreement, I can't share which company I work for, but let's just say it’s a well-known ISP.
 
