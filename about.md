@@ -15,19 +15,14 @@ As for social media—I’m not really active there. Not because I’m hiding an
 Especially from around 2022 onward, with AI advancing rapidly, I’ve been more cautious about how much personal content I put online. We’re clearly moving into an age where data—photos, videos, even casual posts—can all be used to train or feed AI systems. So I try to limit my digital footprint, especially when it comes to my face or personal exposure.
 
 ## 🏅 Highlights
-
 - 🥷 Cybersecurity Finalist — KMIPN V 2023  
 - 💻 Matching Fund Polines x Telkom Indonesia (Backend Dev)  
 - 📚 Diploma III in Informatics Engineering – GPA 3.81
 
 ## 🔭 Current Focus
-
-- Building practical tools to automate repetitive tasks
-- Exploring cybersecurity through ethical hacking challenges
 - Learning and experimenting with steganography for hiding information creatively
 
 ## 🧰 Tech Stack
-
 - **Languages:** Go, PHP, JavaScript, Python, C  
 - **Databases:** SQLite, PostgreSQL, MySQL, MongoDB  
 - **Tools:** Git, curl, SQL, NGINX, Apache, Grafana  
