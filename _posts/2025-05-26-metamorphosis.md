@@ -1,9 +1,9 @@
 ---
-layout: post  
-title: The Metamorphosis  
-tags: literature kafka existentialism  
-permalink: the-metamorphosis  
-desc: A poetic reflection on Franz Kafka's The Metamorphosis—alienation, change without reason, and the tragedy of indifference.  
+layout: post
+title: The Metamorphosis
+tags: literature kafka existentialism
+permalink: the-metamorphosis
+desc: A poetic reflection on Franz Kafka's The Metamorphosis—alienation, change without reason, and the tragedy of indifference.
 ---
 
 The world does not always need a reason to turn its face. Sometimes, it just does. The sky shifts, the hands that once held us grow cold, and we are left asking why—without ever receiving an answer. In _The Metamorphosis_, Franz Kafka does not bother to explain why life alters so brutally. He simply begins with the change already done. And perhaps that is the most honest thing about this story: that the heart of alienation is not rooted in logic, but in the suddenness of being seen as something else, something other.
