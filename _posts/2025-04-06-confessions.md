@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Confessions — A Tale of Human Condition
+title: Confessions
 tags: literature Japanese Novels
 permalink: confessions
 desc: A review of Minato Kanae's Confessions, a psychological thriller that explores the dark depths of revenge, guilt, and the human condition.  
