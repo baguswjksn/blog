@@ -1,8 +1,8 @@
 ---
 layout: post  
-title: The Gulag Archipelago — A Chronicle of Totalitarian Suffering  
+title: The Gulag Archipelago
 tags: literature Russian Nonfiction  
-permalink: gulag-archipelago  
+permalink: gulag-archipelago
 desc: A review of Aleksandr Solzhenitsyn's The Gulag Archipelago, a monumental work that exposes the brutal realities of Soviet labor camps and the resilience of the human spirit.  
 ---
 
