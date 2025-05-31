@@ -1,17 +1,19 @@
 ---
 layout: post
 title: The Metamorphosis
-tags: literature kafka existentialism
+tags: literature
 permalink: the-metamorphosis
-desc: A poetic reflection on Franz Kafka's The Metamorphosis—alienation, change without reason, and the tragedy of indifference.
+desc: The Metamorphosis karya Franz Kafka—alienasi, perubahan tanpa alasan, dan tragedi dari ketidakpedulian.
 ---
 
-The world does not always need a reason to turn its face. Sometimes, it just does. The sky shifts, the hands that once held us grow cold, and we are left asking why—without ever receiving an answer. In _The Metamorphosis_, Franz Kafka does not bother to explain why life alters so brutally. He simply begins with the change already done. And perhaps that is the most honest thing about this story: that the heart of alienation is not rooted in logic, but in the suddenness of being seen as something else, something other.
+Dunia tidak selalu butuh alasan untuk membalikkan wajahnya. Kadang, ia hanya melakukannya. Langit berganti warna, tangan yang dulu merangkul kini menjadi dingin, dan kita hanya bisa bertanya—tanpa pernah mendapat jawaban. Dalam _Metamorfosis_, Franz Kafka tidak repot-repot menjelaskan mengapa hidup berubah begitu kejam. Ia memulai ceritanya dengan perubahan yang telah terjadi. Dan mungkin, itulah kejujuran paling dalam dari kisah ini: bahwa inti dari keterasingan tidak berakar pada logika, tetapi pada tiba-tiba kita dipandang sebagai sesuatu yang lain, sesuatu yang asing.
 
-Kafka knew the body is where it begins. The betrayal of the familiar, the revolt of one’s own limbs—this is the first exile. And yet, _The Metamorphosis_ is not about transformation in the magical sense, but about the unbearable silence that follows it. It asks what happens when the self mutates and the world offers no compassion, only distance. There is no hero’s journey here, no promise of growth or understanding. Just the raw absurdity of change and the chilling precision of being quietly erased from the lives around you.
+Kafka tahu bahwa tubuh adalah tempat semua itu bermula. Pengkhianatan atas yang akrab, pemberontakan anggota tubuh sendiri—itulah pengasingan pertama. Namun, _Metamorfosis_ bukan tentang transformasi dalam arti magis, melainkan tentang keheningan yang tak tertahankan setelahnya. Ia bertanya: apa yang terjadi ketika diri berubah, dan dunia tidak menawarkan belas kasih, melainkan jarak. Tidak ada perjalanan pahlawan di sini, tidak ada janji akan pertumbuhan atau pemahaman. Hanya absurditas perubahan yang mentah, dan ketepatan yang menakutkan dalam proses penghapusan diri yang begitu sunyi dari kehidupan orang-orang di sekitar.
 
 ![Metamorphosis](/assets/img/f00389c5191fa9639a8896ae6e444eef248e6cbd932c4b1bd1f8f2f75eef8ca4.webp)
 
-<span style="background-color: yellow;">It is easy to say that the tragedy lies in the transformation. But Kafka suggests something deeper, more cutting—that the true wound is not in what you become, but in the coldness with which others respond.</span> How quickly love can fade when a shape no longer fits the frame of normal. How routine devours empathy. Kafka’s genius lies in this quiet cruelty, in the domestic stillness that makes the estrangement more terrifying than any monster ever could.
+<span style="background-color: yellow;">Mudah saja untuk mengatakan bahwa tragedi terletak pada transformasi itu sendiri. Tapi Kafka mengusulkan sesuatu yang lebih dalam, lebih menyayat—bahwa luka sejati bukan pada apa yang kita jadi, tetapi pada dinginnya respons orang lain terhadap perubahan itu.</span> Betapa cepat cinta bisa pudar ketika bentuk tak lagi sesuai dengan bingkai yang dianggap normal. Betapa rutinitas melahap empati. Kejeniusan Kafka terletak pada kekejaman yang senyap ini, dalam keheningan domestik yang membuat keterasingan terasa lebih menakutkan daripada monster mana pun.
 
-Reading _The Metamorphosis_ is like staring into a mirror that slowly forgets your reflection. It is not a horror story in the traditional sense—it is a parable of indifference, a hymn to those who suffer unseen, whose pain is met with inconvenience rather than concern. There is no comfort here, no moral resolution. But there is truth. Stark, unsparing truth about how we abandon what we cannot understand. And in this, Kafka gives us not answers, but a haunting echo of the question we all carry: _If I change, will anyone still care who I am?_
+Membaca _Metamorfosis_ seperti menatap cermin yang perlahan melupakan pantulanmu. Ini bukan kisah horor dalam arti tradisional—ini adalah perumpamaan tentang ketidakpedulian, sebuah himne bagi mereka yang menderita dalam diam, yang rasa sakitnya hanya dianggap gangguan, bukan keprihatinan. Tak ada hiburan di sini, tak ada resolusi moral. Tapi ada kebenaran. Kebenaran yang telanjang dan tak mengenal ampun tentang bagaimana kita meninggalkan apa yang tak mampu kita pahami. Dan dalam hal ini, Kafka tidak memberi jawaban, hanya gema menyedihkan dari pertanyaan yang kita semua simpan:  
+_“Jika aku berubah, masih adakah yang peduli siapa diriku?”_
+
