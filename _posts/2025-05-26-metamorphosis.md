@@ -6,7 +6,7 @@ permalink: the-metamorphosis
 desc: The Metamorphosis karya Franz Kafka—alienasi, perubahan tanpa alasan, dan tragedi dari ketidakpedulian.
 ---
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 Dunia tidak selalu butuh alasan untuk membalikkan wajahnya. Kadang, ia hanya melakukannya. Langit berganti warna, tangan yang dulu merangkul kini menjadi dingin, dan kita hanya bisa bertanya—tanpa pernah mendapat jawaban. Dalam <em>Metamorfosis</em>, Franz Kafka tidak repot-repot menjelaskan mengapa hidup berubah begitu kejam. Ia memulai ceritanya dengan perubahan yang telah terjadi. Dan mungkin, itulah kejujuran paling dalam dari kisah ini: bahwa inti dari keterasingan tidak berakar pada logika, tetapi pada tiba-tiba kita dipandang sebagai sesuatu yang lain, sesuatu yang asing.<br><br>
 
@@ -19,7 +19,7 @@ Kafka tahu bahwa tubuh adalah tempat semua itu bermula. Pengkhianatan atas yang 
 Membaca <em>Metamorfosis</em> seperti menatap cermin yang perlahan melupakan pantulanmu. Ini bukan kisah horor dalam arti tradisional—ini adalah perumpamaan tentang ketidakpedulian, sebuah himne bagi mereka yang menderita dalam diam, yang rasa sakitnya hanya dianggap gangguan, bukan keprihatinan. Tak ada hiburan di sini, tak ada resolusi moral. Tapi ada kebenaran. Kebenaran yang telanjang dan tak mengenal ampun tentang bagaimana kita meninggalkan apa yang tak mampu kita pahami. Dan dalam hal ini, Kafka tidak memberi jawaban, hanya gema menyedihkan dari pertanyaan yang kita semua simpan:<br>  
 <em>“Jika aku berubah, masih adakah yang peduli siapa diriku?”</em>
 
-</div>
+</p>
 
 
 
