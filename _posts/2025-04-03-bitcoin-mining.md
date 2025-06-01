@@ -6,6 +6,8 @@ permalink: bitcoin-mining
 desc: Penambangan Bitcoin hanyalah brute-forcing berskala besar, tidak serumit yang dibayangkan
 ---
 
+![Mining](/assets/img/429736528-be5297ce-6c9e-41b8-9582-27588c2122a6.webp)
+
 <div style="text-align: justify;">
   <p>Penambangan Bitcoin sering terdengar rumit, tapi sebenarnya ini hanyalah proses brute-force dalam skala besar. Para penambang di seluruh dunia bersaing mencoba angka acak yang disebut <em>nonce</em>, berharap satu di antaranya menghasilkan hash yang memenuhi syarat tertentu. Proses ini menggunakan algoritma SHA-256 yang akan mengubah data blok dan nonce menjadi kode unik. Jika hasilnya di bawah target yang ditentukan, maka blok tersebut berhasil ditambang.</p>
 
