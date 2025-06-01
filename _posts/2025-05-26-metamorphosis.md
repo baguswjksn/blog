@@ -16,7 +16,7 @@ Kafka tahu bahwa tubuh adalah tempat semua itu bermula. Pengkhianatan atas yang 
 
 <span style="background-color: yellow;">Mudah saja untuk mengatakan bahwa tragedi terletak pada transformasi itu sendiri. Tapi Kafka mengusulkan sesuatu yang lebih dalam, lebih menyayat—bahwa luka sejati bukan pada apa yang kita jadi, tetapi pada dinginnya respons orang lain terhadap perubahan itu.</span> Betapa cepat cinta bisa pudar ketika bentuk tak lagi sesuai dengan bingkai yang dianggap normal. Betapa rutinitas melahap empati. Kejeniusan Kafka terletak pada kekejaman yang senyap ini, dalam keheningan domestik yang membuat keterasingan terasa lebih menakutkan daripada monster mana pun.<br><br>
 
-<em>Metamorfosis</em> bukan kisah horor dalam arti tradisional—ini adalah perumpamaan tentang ketidakpedulian, sebuah himne bagi mereka yang menderita dalam diam, yang rasa sakitnya hanya dianggap gangguan, bukan keprihatinan. Tak ada hiburan di sini, tak ada resolusi moral. Tapi ada kebenaran. Kebenaran yang telanjang dan tak mengenal ampun tentang bagaimana kita meninggalkan apa yang tak mampu kita pahami. Dan dalam hal ini, Kafka tidak memberi jawaban, hanya gema menyedihkan dari pertanyaan yang kita semua simpan:<br>  
+<em>Metamorfosis</em> bukanlah kisah horor dalam arti tradisional—ini adalah perumpamaan tentang ketidakpedulian. Tak ada hiburan di sini, tak ada resolusi moral. Tapi ada kebenaran. Kebenaran yang telanjang dan tak mengenal ampun tentang bagaimana kita meninggalkan apa yang tak mampu kita pahami. Dan dalam hal ini, Kafka tidak memberi jawaban—hanya gema menyedihkan dari pertanyaan yang kita semua simpan:
 <em>“Jika aku berubah, masih adakah yang peduli siapa diriku?”</em>
 
 </p>
