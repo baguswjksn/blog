@@ -12,7 +12,7 @@ desc: Manifesto Unabomber bukan sekadar teror, tapi jeritan jiwa terhadap perada
 <p>Membaca Unabomber Manifesto terasa mengganggu, bukan hanya karena penulisnya adalah pelaku teror, tapi karena isi tulisannya penuh kegelisahan terhadap arah peradaban modern. Dengan nada yang dingin dan rasional, manifesto ini mempertanyakan bagaimana teknologi mengubah psikologi manusia, struktur sosial, dan makna kebebasan itu sendiri. Bukan teriakan gila, tapi suara seseorang yang merasa dunia sudah dikendalikan mesin tak terlihat.
 </p>
 
-![Ted Kaczynski](/assets/img/0a4569c7809385dca673e18caf0bcef3ec4f425465b31de4663ba381ab9839bd.webp)
+![Manifesto](/assets/img/0a4569c7809385dca673e18caf0bcef3ec4f425465b31de4663ba381ab9839bd.webp)
 
 <p>
 Argumen utamanya tegas: teknologi tidak netral. Perkembangannya menuntut manusia untuk tunduk, menjadi bagian dari sistem yang kaku dan tanpa jiwa. Kemajuan membawa kenyamanan, tapi sekaligus menciptakan perasaan terasing, tidak berdaya, dan kehilangan kendali atas hidup sendiri. Manifesto ini memaksa kita bertanya—apa yang sebenarnya kita korbankan demi kemudahan?
