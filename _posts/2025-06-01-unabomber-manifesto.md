@@ -5,6 +5,7 @@ tags: teknologi masyarakat
 permalink: unabomber-manifesto
 desc: Manifesto Unabomber bukan sekadar teror, tapi jeritan jiwa terhadap peradaban modern yang kehilangan arah
 ---
+![Ted Kaczynski](/assets/img/037b8b53918a10c5465be81a86f09e7bbd111c6af335eadfec2a752e93fc2c01.webp)
 
 <div style="text-align: justify;">
     <p>Membaca Unabomber Manifesto terasa mengganggu, bukan hanya karena penulisnya adalah pelaku teror, tapi karena isi
