@@ -16,11 +16,10 @@ desc: A review of Aleksandr Solzhenitsyn's The Gulag Archipelago, a monumental w
     Buku ini tidak disusun sebagai narasi tradisional, melainkan sebagai kumpulan suara dan refleksi. Hasilnya adalah pemahaman yang kompleks tentang kehidupan di dalam gulag. Solzhenitsyn berpindah antara momen ketakutan dan keberanian, memperlihatkan bagaimana warga biasa bisa menjadi bagian dari sistem yang kejam—baik karena dipaksa maupun karena takut. Ia menunjukkan sisi sehari-hari dari kejahatan serta keberanian diam-diam dari mereka yang melawan. Dari sini, ia membangun cara berpikir tentang tanggung jawab dan hati nurani, dengan menunjukkan bahwa mengatakan kebenaran bisa menjadi bentuk perlawanan.
   </p>
 
-  <p style="background-color: rgb(255, 255, 185);">
-    Yang membuat karya Solzhenitsyn menonjol adalah kejelasan moralnya tanpa menggurui. Ia tidak membagi orang dalam kategori baik dan jahat secara sederhana, tetapi menggambarkan mereka dengan segala kontradiksi dan kompleksitasnya.
-  </p>
-
   <p>
+     <span style="background-color: rgb(255, 255, 185);">
+    Yang membuat karya Solzhenitsyn menonjol adalah kejelasan moralnya tanpa menggurui. Ia tidak membagi orang dalam kategori baik dan jahat secara sederhana, tetapi menggambarkan mereka dengan segala kontradiksi dan kompleksitasnya.
+  </span>
     Buku ini mengajukan pertanyaan: Bagaimana seseorang bisa menjaga integritas saat kebebasannya direnggut? Bisakah ingatan menjadi senjata melawan pelupaan? Ini bukan hanya pertanyaan masa lalu, tetapi tetap relevan hingga kini.
   </p>
 
