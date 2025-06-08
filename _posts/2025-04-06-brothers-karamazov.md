@@ -5,7 +5,8 @@ tags: literature Russian Novels
 permalink: brothers-karamazov
 desc: Exploring themes of doubt, faith, suffering, and the search for moral truth on Fyodor Dostoevsky's The Brothers Karamazov.  
 ---
-
+<p style="text-align: justify;">
+  
 Fyodor Dostoevsky dalam **_The Brothers Karamazov_** tidak hanya menyajikan sebuah novel, tetapi juga sebuah perjalanan filosofis dan emosional. Buku ini menggali secara mendalam kompleksitas **iman**, **moralitas**, dan **penderitaan manusia**, serta menggabungkannya dalam sebuah cerita yang mendorong pembaca untuk mempertanyakan keyakinan dan kontradiksi mereka sendiri. Ceritanya berfokus pada keluarga Karamazov yang penuh konflik, dengan karakter-karakter yang masing-masing mewakili sisi berbeda dari kondisi manusia.
 
 Cerita ini menarik, tetapi juga sarat dengan pertanyaan-pertanyaan intelektual. Pergulatan pribadi para tokohnya menjadi latar bagi pertanyaan-pertanyaan besar tentang **kehendak bebas**, **tanggung jawab**, dan makna kehidupan. Dostoevsky tidak hanya mengajak pembaca untuk menikmati cerita, tetapi juga untuk **merenung secara mendalam** tentang apa artinya menjadi manusia.
@@ -16,4 +17,5 @@ Bab ini telah menjadi bahan diskusi selama berabad-abad karena menyajikan pertan
 
 <span style="background-color: yellow;">Yang membuat **_The Brothers Karamazov_** begitu menarik adalah kemampuannya membahas tema-tema besar seperti **keraguan**, **iman**, **keadilan**, dan **pencarian makna hidup** tanpa memberikan jawaban yang mudah</span>. Karakter-karakternya yang penuh konflik pribadi mencerminkan perjuangan eksistensial yang juga kita alami dalam kehidupan nyata.
 
-Ini bukanlah novel yang menawarkan kenyamanan, melainkan sebuah bacaan yang mengajak kita menghadapi kenyataan yang tidak menyenangkan tentang jiwa manusia. Jika Anda pernah mempertanyakan makna hidup atau peran iman dalam hidup Anda, **_The Brothers Karamazov_** akan meninggalkan kesan mendalam yang bertahan lama setelah halaman terakhir dibaca.
+Jika Anda pernah mempertanyakan makna hidup atau peran iman dalam hidup Anda, **_The Brothers Karamazov_** akan meninggalkan kesan mendalam yang bertahan lama setelah halaman terakhir dibaca.
+</p>
