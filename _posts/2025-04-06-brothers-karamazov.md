@@ -5,4 +5,26 @@ tags: literature Russian Novels
 permalink: brothers-karamazov
 desc: Exploring themes of doubt, faith, suffering, and the search for moral truth on Fyodor Dostoevsky's The Brothers Karamazov.  
 ---
-<p style="text-align: justify;"> Fyodor Dostoevsky dalam _The Brothers Karamazov_ tidak hanya menyajikan sebuah novel, tetapi juga sebuah perjalanan filosofis dan emosional. Buku ini menggali secara mendalam kompleksitas iman, moralitas, dan penderitaan manusia, serta menggabungkannya dalam sebuah cerita yang mendorong pembaca untuk mempertanyakan keyakinan dan kontradiksi mereka sendiri. Ceritanya berfokus pada keluarga Karamazov yang penuh konflik, dengan karakter-karakter yang masing-masing mewakili sisi berbeda dari kondisi manusia. </p> <p style="text-align: justify;"> Cerita ini menarik, tetapi juga sarat dengan pertanyaan-pertanyaan intelektual. Pergulatan pribadi para tokohnya menjadi latar bagi pertanyaan-pertanyaan besar tentang kehendak bebas, tanggung jawab, dan makna kehidupan. Dostoevsky tidak hanya mengajak pembaca untuk menikmati cerita, tetapi juga untuk merenung secara mendalam tentang apa artinya menjadi manusia. </p> <p style="text-align: justify;"> Salah satu bagian paling terkenal dan menggugah dari novel ini adalah bab berjudul _The Grand Inquisitor_. Dalam bagian ini, Ivan Karamazov menyampaikan sebuah perumpamaan yang mempertanyakan dasar dari ajaran Kristen dan membahas ketegangan antara kebebasan dan otoritas. </p> <p style="text-align: justify;"> Bab ini telah menjadi bahan diskusi selama berabad-abad karena menyajikan pertanyaan sulit: apakah manusia benar-benar sanggup menjalani kebebasan yang diberikan oleh Tuhan? Pandangan Ivan yang sinis terhadap sifat manusia dan kritiknya terhadap agama memberikan dampak yang kuat bagi siapa pun yang mau memikirkan maknanya secara serius. </p> <p style="text-align: justify;"> <span style="background-color: yellow;">Yang membuat _The Brothers Karamazov_ begitu menarik adalah kemampuannya membahas tema-tema besar seperti keraguan, iman, keadilan, dan pencarian makna hidup </span>. Karakter-karakternya yang penuh konflik pribadi mencerminkan perjuangan eksistensial yang juga kita alami dalam kehidupan nyata. </p> <p style="text-align: justify;"> Jika Anda pernah mempertanyakan makna hidup atau peran iman dalam hidup Anda, _The Brothers Karamazov_ akan meninggalkan kesan mendalam yang bertahan lama setelah halaman terakhir dibaca. </p> 
+
+<p style="text-align: justify;"> Fyodor Dostoevsky dalam The Brothers Karamazov tidak hanya menyajikan sebuah novel,
+    tetapi juga sebuah perjalanan filosofis dan emosional. Buku ini menggali secara mendalam kompleksitas iman,
+    moralitas, dan penderitaan manusia, serta menggabungkannya dalam sebuah cerita yang mendorong pembaca untuk
+    mempertanyakan keyakinan dan kontradiksi mereka sendiri. Ceritanya berfokus pada keluarga Karamazov yang penuh
+    konflik, dengan karakter-karakter yang masing-masing mewakili sisi berbeda dari kondisi manusia. </p>
+<p style="text-align: justify;"> Cerita ini menarik, tetapi juga sarat dengan pertanyaan-pertanyaan intelektual.
+    Pergulatan pribadi para tokohnya menjadi latar bagi pertanyaan-pertanyaan besar tentang kehendak bebas, tanggung
+    jawab, dan makna kehidupan. Dostoevsky tidak hanya mengajak pembaca untuk menikmati cerita, tetapi juga untuk
+    merenung secara mendalam tentang apa artinya menjadi manusia. </p>
+<p style="text-align: justify;"> Salah satu bagian paling terkenal dan menggugah dari novel ini adalah bab berjudul The
+    Grand Inquisitor. Dalam bagian ini, Ivan Karamazov menyampaikan sebuah perumpamaan yang mempertanyakan dasar dari
+    ajaran Kristen dan membahas ketegangan antara kebebasan dan otoritas. </p>
+<p style="text-align: justify;"> Bab ini telah menjadi bahan diskusi selama berabad-abad karena menyajikan pertanyaan
+    sulit: apakah manusia benar-benar sanggup menjalani kebebasan yang diberikan oleh Tuhan? Pandangan Ivan yang sinis
+    terhadap sifat manusia dan kritiknya terhadap agama memberikan dampak yang kuat bagi siapa pun yang mau memikirkan
+    maknanya secara serius. </p>
+<p style="text-align: justify;"> <span style="background-color: rgb(255, 255, 185);">Yang membuat The Brothers Karamazov begitu
+        menarik adalah kemampuannya membahas tema-tema besar seperti keraguan, iman, keadilan, dan pencarian makna hidup
+    </span>. Karakter-karakternya yang penuh konflik pribadi mencerminkan perjuangan eksistensial yang juga kita alami
+    dalam kehidupan nyata. </p>
+<p style="text-align: justify;"> Jika Anda pernah mempertanyakan makna hidup atau peran iman dalam hidup Anda, _The
+    Brothers Karamazov_ akan meninggalkan kesan mendalam yang bertahan lama setelah halaman terakhir dibaca. </p>
