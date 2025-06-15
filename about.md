@@ -20,3 +20,5 @@ normal.
 Especially from around 2022 onward, with AI advancing rapidly, <span style="background-color: rgb(173, 255, 195);">I’ve been more cautious about how much personal content I
 put online.</span> We’re clearly moving into an age where data—photos, videos, even casual posts—can all be used to train or
 feed AI systems. <span style="background-color: rgb(157, 219, 255);">So I try to limit my digital footprint</span>, especially when it comes to my face or personal exposure.
+
+{% include sticky-bottom.html %}
