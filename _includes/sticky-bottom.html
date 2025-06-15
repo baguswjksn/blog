@@ -7,13 +7,15 @@
 </div>
 
 <script>
-  // Language toggle
-  document.getElementById("themeLangSelect").addEventListener("change", function () {
-    const value = this.value;
+document.getElementById("themeLangSelect").addEventListener("change", function () {
+  const value = this.value;
 
-    // Toggle language content
-    document.querySelectorAll('[data-lang]').forEach(div => {
-      div.classList.toggle('hidden', div.getAttribute('data-lang') !== value);
-    });
+  document.querySelectorAll('[data-lang]').forEach(div => {
+    if (div.getAttribute('data-lang') === value) {
+      div.classList.remove('hidden');
+    } else {
+      div.classList.add('hidden');
+    }
   });
+});
 </script>
