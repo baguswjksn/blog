@@ -24,7 +24,24 @@ feed AI systems. <span style="background-color: rgb(157, 219, 255);">So I try to
 
 <!-- INDONESIAN VERSION -->
 <div data-lang="id" class="hidden">
-
+    <p>Hai! Saya <strong>Bagus Muhammad Wijaksono</strong>, dikenal secara online sebagai
+        <strong>‘baguswijaksono’</strong>—kamu bisa menemukan saya hampir di mana saja dengan nama itu. Sederhana dan
+        konsisten, nggak perlu diingat-ingat yang rumit.</p>
+    <p><img src="/assets/img/444636409-7d05ff18-79e3-433f-87f0-e043ea5c9b7f-1.webp" alt="Selamat Pagi" /></p>
+    <p>Saya senang <strong>membangun, membongkar, dan mengamankan</strong> sesuatu. Saya punya minat besar di bidang
+        <strong>rekayasa perangkat lunak</strong>, <strong>pengujian penetrasi</strong>, <strong>sejarah</strong>, dan
+        <strong>filsafat</strong>. Saya adalah <strong>pengembang yang agnostik terhadap bahasa pemrograman</strong>,
+        nyaman bekerja dengan bahasa apa pun, terutama di lingkungan *NIX. Meskipun saya nggak selalu menyebut diri saya
+        sebagai “software engineer,” mungkin memang itu yang akhirnya saya jalani.</p>
+    <p><span style="background-color: rgb(255, 255, 185);">Soal media sosial—saya sebenarnya nggak terlalu aktif di
+            sana. Bukan karena menyembunyikan sesuatu, tapi memang saya nggak merasa ada alasan kuat atau kebutuhan
+            mendesak untuk aktif.</span> Jadi kalau kamu menemukan akun saya dan isinya kosong—itu hal yang biasa.</p>
+    <p>Terutama sejak sekitar tahun 2022, ketika AI berkembang pesat, <span
+            style="background-color: rgb(173, 255, 195);">saya jadi lebih berhati-hati soal seberapa banyak konten
+            pribadi yang saya unggah ke internet.</span> Jelas kita sedang memasuki era di mana data—foto, video, bahkan
+        unggahan santai—bisa digunakan untuk melatih atau memberi makan sistem AI. <span
+            style="background-color: rgb(157, 219, 255);">Jadi saya berusaha membatasi jejak digital saya</span>,
+        terutama yang berkaitan dengan wajah atau eksposur pribadi.</p>
 </div>
 
 {% include sticky-bottom.html %}
