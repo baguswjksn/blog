@@ -7,3 +7,28 @@
     <option value="light-id">Light ID</option>
   </select>
 </div>
+
+ <script>
+    // Language & Theme toggler
+    document.getElementById("themeLangSelect").addEventListener("change", function () {
+      const value = this.value;
+      const [theme, lang] = value.split("-");
+
+      // Set theme class on <body>
+      if (theme === "dark") {
+        document.body.classList.add("bg-gray-900", "text-white");
+        document.body.classList.remove("bg-white", "text-black");
+      } else {
+        document.body.classList.add("bg-white", "text-black");
+        document.body.classList.remove("bg-gray-900", "text-white");
+      }
+
+      // Toggle language content
+      document.querySelectorAll('[data-lang]').forEach(div => {
+        div.classList.toggle('hidden', div.getAttribute('data-lang') !== lang);
+      });
+    });
+
+    // Optional: set initial mode
+    document.getElementById("themeLangSelect").dispatchEvent(new Event("change"));
+  </script>
