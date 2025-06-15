@@ -9,6 +9,7 @@ desc: The Metamorphosis karya Franz Kafka—alienasi, perubahan tanpa alasan, da
 
 Dunia tidak selalu memberikan alasan ketika segalanya berubah. Kadang, perubahan terjadi begitu saja. dan kita hanya bisa bertanya tanpa mendapat jawaban yang jelas. Dalam <em>Metamorfosis</em>, Franz Kafka tidak menjelaskan mengapa hidup bisa berubah begitu drastis. Ia langsung memulai cerita saat semuanya sudah berbeda. Mungkin inilah inti dari kisah ini: keterasingan tidak selalu punya sebab yang logis, tapi bisa muncul begitu saja.
 
+
 Kafka menyadari bahwa tubuh sering kali menjadi awal dari perubahan itu. Saat tubuh sendiri terasa seperti musuh, di situlah pengasingan pertama dimulai. Cerita ini mengajak kita berpikir: apa yang terjadi saat seseorang berubah, tapi dunia justru menjauh, bukan mendekat? Tidak ada pencerahan atau pertumbuhan di sini. Hanya perubahan yang menyakitkan, dan perlahan-lahan, seseorang dihapus dari hidup orang-orang di sekitarnya.<br><br>
 
 <img src="/assets/img/f00389c5191fa9639a8896ae6e444eef248e6cbd932c4b1bd1f8f2f75eef8ca4.webp" alt="Metamorphosis" /><br><br>
