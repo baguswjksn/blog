@@ -8,7 +8,6 @@ Hi! I’m **Bagus Muhammad Wijaksono**, known online as **‘baguswijaksono’**
 
 ![Selamat Pagi](/assets/img/444636409-7d05ff18-79e3-433f-87f0-e043ea5c9b7f-1.webp)
 
-
 I enjoy **building, breaking, and securing** things. I'm passionate about **software engineering**, **penetration
 testing**, **history**, and **philosophy**. I'm a **language-agnostic developer**, comfortable working with any
 language, especially in *NIX environments. While I don’t always label myself as a "software engineer," I suppose that’s
@@ -22,60 +21,13 @@ Especially from around 2022 onward, with AI advancing rapidly, <span style="back
 put online.</span> We’re clearly moving into an age where data—photos, videos, even casual posts—can all be used to train or
 feed AI systems. <span style="background-color: rgb(157, 219, 255);">So I try to limit my digital footprint</span>, especially when it comes to my face or personal exposure.
 
-  <!-- Sticky Select Box -->
-  <div class="fixed bottom-4 right-4 z-50">
-    <select id="themeLangSelect"
-      class="p-2 border rounded shadow text-sm bg-white dark:bg-gray-800 text-gray-900 dark:text-white">
-      <option value="dark-en">Dark EN</option>
-      <option value="light-en">Light EN</option>
-      <option value="dark-id">Dark ID</option>
-      <option value="light-id">Light ID</option>
-    </select>
-  </div>
-
-  <!-- Script -->
-  <script>
-    // Handle theme and language
-    const select = document.getElementById("themeLangSelect");
-    const html = document.documentElement;
-    const body = document.body;
-    const titleEl = document.getElementById("main-title");
-    const contentEn = document.getElementById("content-en");
-    const contentId = document.getElementById("content-id");
-
-    // Load saved preference
-    const saved = localStorage.getItem("themeLang");
-    if (saved) applySetting(saved);
-
-    select.addEventListener("change", (e) => {
-      const value = e.target.value;
-      localStorage.setItem("themeLang", value);
-      applySetting(value);
-    });
-
-    function applySetting(value) {
-      const [theme, lang] = value.split("-");
-
-      // Apply theme
-      if (theme === "dark") {
-        html.classList.add("dark");
-        body.classList.add("bg-gray-900", "text-white");
-      } else {
-        html.classList.remove("dark");
-        body.classList.remove("bg-gray-900", "text-white");
-      }
-
-      // Apply language
-      if (lang === "id") {
-        document.title = "Tentang Saya";
-        titleEl.innerText = "Tentang Saya";
-        contentEn.classList.add("hidden");
-        contentId.classList.remove("hidden");
-      } else {
-        document.title = "About Me";
-        titleEl.innerText = "About Me";
-        contentId.classList.add("hidden");
-        contentEn.classList.remove("hidden");
-      }
-    }
-  </script>
+<!-- Sticky Select Box -->
+<div class="fixed bottom-4 right-4 z-50">
+  <select id="themeLangSelect"
+    class="p-2 border rounded shadow text-sm bg-white dark:bg-gray-800 text-gray-900 dark:text-white">
+    <option value="dark-en">Dark EN</option>
+    <option value="light-en">Light EN</option>
+    <option value="dark-id">Dark ID</option>
+    <option value="light-id">Light ID</option>
+  </select>
+</div>
