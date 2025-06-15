@@ -20,14 +20,3 @@ normal.
 Especially from around 2022 onward, with AI advancing rapidly, <span style="background-color: rgb(173, 255, 195);">I’ve been more cautious about how much personal content I
 put online.</span> We’re clearly moving into an age where data—photos, videos, even casual posts—can all be used to train or
 feed AI systems. <span style="background-color: rgb(157, 219, 255);">So I try to limit my digital footprint</span>, especially when it comes to my face or personal exposure.
-
-<!-- Sticky Select Box -->
-<div class="fixed bottom-4 right-4 z-50">
-  <select id="themeLangSelect"
-    class="p-2 border rounded shadow text-sm bg-white dark:bg-gray-800 text-gray-900 dark:text-white">
-    <option value="dark-en">Dark EN</option>
-    <option value="light-en">Light EN</option>
-    <option value="dark-id">Dark ID</option>
-    <option value="light-id">Light ID</option>
-  </select>
-</div>
