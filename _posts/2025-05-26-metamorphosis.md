@@ -14,7 +14,7 @@ Kafka menyadari bahwa tubuh sering kali menjadi awal dari perubahan itu. Saat tu
 
 <img src="/assets/img/f00389c5191fa9639a8896ae6e444eef248e6cbd932c4b1bd1f8f2f75eef8ca4.webp" alt="Metamorphosis" /><br><br>
 
-<span style="background-color: rgb(255, 255, 185);">Mudah untuk mengira bahwa tragedi utama ada pada perubahan fisik itu sendiri. Tapi Kafka menunjukkan sesuatu yang lebih dalam—bahwa luka sebenarnya muncul dari sikap dingin orang-orang terhadap perubahan tersebut.</span> Betapa cepatnya kasih sayang bisa menghilang ketika seseorang tidak lagi terlihat seperti biasanya. Betapa mudahnya kebiasaan menggantikan kepedulian. Kafka memperlihatkan kekejaman yang tidak meledak-ledak, tapi justru terasa karena sunyinya. Karena itulah, keterasingan yang ditulisnya terasa lebih mengganggu dibanding cerita horor mana pun.<br><br>
+<span style="background-color: rgb(255, 255, 185);">Mudah untuk mengira bahwa tragedi utama ada pada perubahan fisik itu sendiri. Tapi Kafka menunjukkan sesuatu yang lebih dalam—bahwa luka sebenarnya muncul dari sikap dingin orang-orang terhadap perubahan tersebut.</span> Kafka memperlihatkan kekejaman yang tidak meledak-ledak, tapi justru terasa karena sunyinya. Karena itulah, keterasingan yang ditulisnya terasa lebih mengganggu dibanding cerita horor mana pun.<br><br>
 
 Tidak ada hiburan di dalamnya, juga tidak ada pesan moral yang memuaskan. hanya menyisakan pertanyaan yang diam-diam mungkin kita pikirkan juga:
 <em>“Kalau aku berubah, apakah masih ada yang peduli siapa aku sebenarnya?”</em>
