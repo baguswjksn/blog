@@ -1,10 +1,23 @@
 <div style="position: fixed; bottom: 1rem; right: 1rem; z-index: 50;">
   <select id="themeLangSelect"
-    style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 0.25rem; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); font-size: 0.875rem; background-color: white; color: #1a202c;">
+    style="
+      padding: 0.5rem;
+      border: 1px solid #4B5563; 
+      border-radius: 0.375rem;  
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+      font-size: 0.875rem;
+      background-color: #1F2937; 
+      color: #F9FAFB;        
+      outline: none;
+    "
+    onfocus="this.style.boxShadow='0 0 0 2px #3B82F6';"
+    onblur="this.style.boxShadow='0 1px 2px rgba(0, 0, 0, 0.25)';"
+  >
     <option value="en">English</option>
     <option value="id">Indonesian</option>
   </select>
 </div>
+
 
 <script>
 document.getElementById("themeLangSelect").addEventListener("change", function () {
